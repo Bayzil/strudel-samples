@@ -3,8 +3,7 @@
   "grillen": [
     "grillen/grille_klick.wav",
     "grillen/grillen-rave.wav",
-    "grillen/stone_1.wav",
-    "grillen/stone_2.wav"
+    "grillen/grillen_rave_sample.wav"
   ],
   "stones": [
     "stones/stone_1.wav",
