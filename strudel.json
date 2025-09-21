@@ -8,5 +8,8 @@
   "stones": [
     "stones/stone_1.wav",
     "stones/stone_2.wav"
+  ],
+  "windspiel": [
+    "windspiel/windspiel_muscheln.wav"
   ]
 }
