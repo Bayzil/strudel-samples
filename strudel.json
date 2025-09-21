@@ -5,5 +5,9 @@
     "grillen/grillen-rave.wav",
     "grillen/stone_1.wav",
     "grillen/stone_2.wav"
+  ],
+  "stones": [
+    "stones/stone_1.wav",
+    "stones/stone_2.wav"
   ]
 }
